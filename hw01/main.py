@@ -1,6 +1,3 @@
-
-## main.py
-```python
 """
 HW01 — Cables and Devices
 
